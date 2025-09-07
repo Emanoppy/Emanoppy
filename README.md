@@ -36,7 +36,7 @@
 ---
 
 ## ⚡ Un poco más de mí  
-![Snoopy](https://i.gifer.com/KWZg.gif)  
+![Gif](https://i.gifer.com/KWZg.gif)  
 
 💡 Siempre aprendiendo, siempre creando.  
 🔥 Si quieres colaborar en un proyecto, ¡escríbeme!  
