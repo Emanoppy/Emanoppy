@@ -36,10 +36,11 @@
 ---
 
 ## ⚡ Un poco más de mí  
-![GIF]([https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif](https://i.gifer.com/KWZg.gif))  
+![Snoopy](https://i.gifer.com/KWZg.gif)  
 
 💡 Siempre aprendiendo, siempre creando.  
 🔥 Si quieres colaborar en un proyecto, ¡escríbeme!  
 
 ---
+
 
