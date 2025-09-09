@@ -10,7 +10,7 @@
 - 🌱 Desarrollador en formación en el **SENA**.  
 - 💻 Apasionado por la **programación, IA, electrónica y powerlifting**.  
 - 🎯 Meta 2025: crear proyectos en **ecommerce, IA y domótica**.  
-- 🐉 Fundador de **Valhalla Powerlifting Club** y emprendedor en **Pancho Chorizo** y **LOTTO**.  
+- 🐉 Fundador de noopy_code  
 - ✨ Frase: *"Si puedes soñarlo, puedes programarlo"*  
 
 ---
